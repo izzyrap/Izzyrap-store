@@ -1,20 +1,20 @@
 const CONFIG = {
-nama: "Zass Desuta", // Nama Store
+nama: "Izzyrap Store", // Nama Store
 profil: "https://files.catbox.moe/etyco1.jpeg", // Url Profil
 banner: "https://files.catbox.moe/9gr5z6.jpeg", // Url Banner 
-tentang: "Zass Desuta adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2020. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
-alamat: "Jl. Contoh No. 123, Jakarta, Indonesia",
+tentang: "Izzyrap Store adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2020. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
+alamat: "Jl. Sambong Asem No. 5, Tasikmalaya, Indonesia",
 sosial_media: {
-  email: "pengen-loli@zass.cloud", // Email
+  email: "izzyrapstore@gmail.com", // Email
   youtube: "zassci_desu", // YouTube Username 
-  tiktok: "zass.id", // Tiktok Username 
-  whatsapp: "6288888888", // WhatsApp Number 
-  telegram: "zasstamvan" // Telegram Username
+  tiktok: "exhumangt", // Tiktok Username 
+  whatsapp: "6285784438991", // WhatsApp Number 
+  telegram: "lynuxyz" // Telegram Username
 },
 payment: {
-  dana: "085298027445", // Payment Dana
-  gopay: "085298027445", // Payment Gopay 
-  ovo: "085298027445", // Payment Ovo 
+  dana: "085784438991", // Payment Dana
+  gopay: "085784438991", // Payment Gopay 
+  ovo: "085784438991", // Payment Ovo 
   qris: "https://linkqr.kamu.mom" // Url Qris
 },
 telegram_api: {
